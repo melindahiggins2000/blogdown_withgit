@@ -6,10 +6,20 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mkh new post</title>
+      <link>/2017/05/08/mkh-new-post/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/05/08/mkh-new-post/</guid>
+      <description>here is a new post
+by melindax &amp;lt;- seq(from=1, to=10, by=0.1)y &amp;lt;- sqrt(x)plot(x,y)</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
